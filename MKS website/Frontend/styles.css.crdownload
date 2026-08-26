@@ -1,0 +1,248 @@
+/* =====================================================
+   BLUE THEME OVERRIDE
+   COLOR ONLY — DO NOT CHANGE FEATURES
+===================================================== */
+
+html body {
+    background-color: #f4f8ff !important;
+    color: #12304a !important;
+}
+
+/* Header */
+header {
+    background: #1565c0 !important;
+    background-color: #1565c0 !important;
+    color: #ffffff !important;
+}
+
+/* Navigation */
+nav,
+.navbar,
+.navigation {
+    background: #0d47a1 !important;
+    background-color: #0d47a1 !important;
+}
+
+nav button,
+.navbar button,
+.navigation button {
+    background: transparent !important;
+    color: #ffffff !important;
+}
+
+nav button:hover,
+.navbar button:hover,
+.navigation button:hover {
+    background: #1976d2 !important;
+    color: #ffffff !important;
+}
+
+/* Active tab */
+nav button.active,
+.navbar button.active,
+.navigation button.active,
+.tab-button.active {
+    background: #42a5f5 !important;
+    color: #ffffff !important;
+}
+
+/* All normal buttons */
+button,
+.btn,
+input[type="button"],
+input[type="submit"] {
+    background: #1565c0 !important;
+    background-color: #1565c0 !important;
+    border-color: #1565c0 !important;
+    color: #ffffff !important;
+}
+
+button:hover,
+.btn:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover {
+    background: #0d47a1 !important;
+    background-color: #0d47a1 !important;
+    color: #ffffff !important;
+}
+
+/* Cards / panels */
+.card,
+.panel,
+section,
+.resource,
+.message,
+.question,
+.test-card,
+.result-card,
+.login-box,
+.staff-panel,
+.principal-panel {
+    background-color: #ffffff !important;
+    border-color: #bbd4f2 !important;
+    color: #12304a !important;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #0d47a1 !important;
+}
+
+/* Text */
+p,
+label,
+span {
+    color: #12304a;
+}
+
+/* Links */
+a {
+    color: #1565c0 !important;
+}
+
+a:hover {
+    color: #0d47a1 !important;
+}
+
+/* Inputs */
+input,
+textarea,
+select {
+    background-color: #ffffff !important;
+    color: #12304a !important;
+    border-color: #90caf9 !important;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    border-color: #1565c0 !important;
+    outline-color: #1565c0 !important;
+}
+
+/* Test timer */
+#testTimer {
+    background: #1565c0 !important;
+    color: #ffffff !important;
+}
+
+#testTimer.timer-warning {
+    background: #ef6c00 !important;
+    color: #ffffff !important;
+}
+
+#testTimer.timer-danger {
+    background: #c62828 !important;
+    color: #ffffff !important;
+}
+
+/* Information boxes */
+.alert-info {
+    background: #e3f2fd !important;
+    border-color: #90caf9 !important;
+    color: #0d47a1 !important;
+}
+
+/* Success */
+.alert-success {
+    background: #e8f5e9 !important;
+    border-color: #81c784 !important;
+    color: #2e7d32 !important;
+}
+
+/* Error */
+.alert-error {
+    background: #ffebee !important;
+    border-color: #ef9a9a !important;
+    color: #c62828 !important;
+}
+
+/* Announcements */
+.announcement {
+    background: #e3f2fd !important;
+    border-color: #1565c0 !important;
+}
+
+/* Resources */
+.resource {
+    border-left-color: #1565c0 !important;
+}
+
+/* Messages */
+.message {
+    border-left-color: #1976d2 !important;
+}
+
+/* Questions */
+.question {
+    border-left-color: #42a5f5 !important;
+}
+
+/* Tables */
+table {
+    background: #ffffff !important;
+    border-color: #bbd4f2 !important;
+}
+
+th {
+    background: #1565c0 !important;
+    color: #ffffff !important;
+}
+
+td {
+    border-color: #bbd4f2 !important;
+}
+
+/* Footer */
+footer {
+    background: #0d47a1 !important;
+    background-color: #0d47a1 !important;
+    color: #ffffff !important;
+}
+
+/* Danger buttons stay red */
+button.danger,
+.btn.danger {
+    background: #c62828 !important;
+    background-color: #c62828 !important;
+    border-color: #c62828 !important;
+    color: #ffffff !important;
+}
+
+button.danger:hover,
+.btn.danger:hover {
+    background: #8e0000 !important;
+    background-color: #8e0000 !important;
+}
+
+/* Login areas */
+#principalLogin,
+#staffLogin {
+    background-color: #ffffff !important;
+    border-color: #90caf9 !important;
+}
+
+/* Main tab backgrounds */
+.tab {
+    background-color: #f4f8ff !important;
+}
+
+/* Mobile menu if present */
+.menu,
+.mobile-menu {
+    background-color: #0d47a1 !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+    background: #1565c0 !important;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #0d47a1 !important;
+}
